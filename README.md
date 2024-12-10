@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/alejocastelnovo" target="blank"><img src="https://img.shields.io/twitter/follow/alejocastelnovo?logo=twitter&style=for-the-badge" alt="alejocastelnovo" /></a> </p>
 
-- 🌱 I’m currently learning **Angular & React Native**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **castelnovo12@gmail.com**
 
