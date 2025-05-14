@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/alejocastelnovo" target="blank"><img src="https://img.shields.io/twitter/follow/alejocastelnovo?logo=twitter&style=for-the-badge" alt="alejocastelnovo" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 Cuurently learning **React**
 
-- 📫 How to reach me **castelnovo12@gmail.com**
+- 📫 Reach me!! **castelnovo12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
